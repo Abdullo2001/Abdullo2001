@@ -3,7 +3,7 @@
 <h3 align="center">I am a full stack programmer from Uzbekistan</h3>
 <img alt="coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullo2001&label=Profile%20views&color=0e75b6&style=flat" alt="abdullo2001" /> </p>
+
 
 - 🔭 I’m currently working on **creating python websites**
 
